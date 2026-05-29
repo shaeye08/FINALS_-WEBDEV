@@ -2,8 +2,8 @@
 
 namespace App\Controllers;
 
-use Chillerlan\QRCode\QRCode;
-use Chillerlan\QRCode\QROptions;
+use chillerlan\QRCode\QRCode;
+use chillerlan\QRCode\QROptions;
 
 class QrController extends BaseController
 {
